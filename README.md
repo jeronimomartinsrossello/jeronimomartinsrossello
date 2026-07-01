@@ -1,20 +1,20 @@
-# ¡Hola! Soy Jeronimo Ricardo Martins Rossello👋
+# Hi there! I'm Jeronimo Ricardo Martins Rossello 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Machine%20Learning%20Engineer-blue?style=for-the-badge&logo=tensorflow" alt="Role" />
   <img src="https://img.shields.io/badge/Focus-MLOps%20%26%20Deep%20Learning-orange?style=for-the-badge&logo=docker" alt="Focus" />
 </p>
 
-## 🚀 Sobre Mí
-Apasionado por la Inteligencia Artificial y el procesamiento de datos. Me especializo en el ciclo completo de desarrollo y despliegue de modelos (**MLOps**), abarcando desde el diseño de Redes Neuronales Convolucionales (CNN) y Modelos de Lenguaje (LLMs) locales, hasta la puesta en producción en entornos contenerizados eficientes.
+## 🚀 About Me
+Passionate about Artificial Intelligence and data processing. I specialize in the end-to-end development and deployment of machine learning models (**MLOps**), ranging from the design of Convolutional Neural Networks (CNNs) and local Large Language Models (LLMs) to production deployment in efficient containerized environments.
 
-- 🧠 Actualmente profundizando en: **Modelos de Regresion lineal y logistica**.
-- 🛠️ Enfoque principal: **Transformar modelos predictivos en APIs robustas y escalables**.
-- 💼 Buscando colaborar en: **Proyectos de código abierto de IA y automatización de Pipelines de ML**.
+- 🧠 Currently diving deeper into: **Linear and Logistic Regression Models**.
+- 🛠️ Core focus: **Transforming predictive models into robust and scalable APIs**.
+- 💼 Looking to collaborate on: **Open-source AI projects and ML Pipeline automation**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 ### 🤖 Machine Learning & Deep Learning
 <p align="left">
@@ -26,7 +26,7 @@ Apasionado por la Inteligencia Artificial y el procesamiento de datos. Me especi
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### ⚙️ MLOps & Despliegue
+### ⚙️ MLOps & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -36,19 +36,19 @@ Apasionado por la Inteligencia Artificial y el procesamiento de datos. Me especi
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_DE_GITHUB]&theme=tokyonight" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_DE_GITHUB]&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Cómo contactarme
-- 🌐 LinkedIn: (https://linkedin.com/in/jeronimo-martins-rossello)
-- 📧 Email: [jeronimormartins@gmail.com]
+## 📫 How to reach me
+- 🌐 LinkedIn: https://linkedin.com/in/jeronimo-martins-rossello
+- 📧 Email: jeronimormartins@gmail.com
