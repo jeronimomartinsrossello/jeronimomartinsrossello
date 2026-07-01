@@ -50,5 +50,5 @@ Apasionado por la Inteligencia Artificial y el procesamiento de datos. Me especi
 ---
 
 ## 📫 Cómo contactarme
-- 🌐 LinkedIn: [link-a-tu-perfil](https://linkedin.com/in/[jeronimo-martins-rossello])
+- 🌐 LinkedIn: (https://linkedin.com/in/[jeronimo-martins-rossello])
 - 📧 Email: [jeronimormartins@gmail.com]
